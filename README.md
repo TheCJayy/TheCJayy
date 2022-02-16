@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TheCJayy!
+- 👀 I’m interested in web development!
+- 🌱 I’m currently learning PHP and JavaScript!
+- 🌴 I currently know HTML and CSS!
+- 💞️ I’m looking to collaborate on nothing at the moment!
+- 📫 How to reach me: Not Yet
